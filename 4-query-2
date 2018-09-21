@@ -1,0 +1,3 @@
+SELECT *
+FROM student s
+right JOIN enrolment e ON s.id = .
